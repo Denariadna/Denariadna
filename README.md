@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Привет 👋 Меня зовут <span style="color:#f0db4f">Арина</span></h1>
+  <h1>Привет 👋 Меня зовут <span style="color:#76cb1a">Арина</span></h1>
 </div>
 
 
@@ -52,23 +52,23 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denariadna&stroke=ffffff&background=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="500" alt="Streak-state" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denariadna&stroke=76cb1a&background=transparent&ring=facc15&fire=facc15&currStreakNum=76cb1a&currStreakLabel=facc15&sideNums=76cb1a&sideLabels=76cb1a&dates=76cb1a&hide_border=true" width="500" alt="Streak-state" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Denariadna&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&show_icons=true&theme=transparent" width="500" alt="Denariadna's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Denariadna&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=76cb1a&icon_color=3382ed&hide_border=true&show_icons=true&theme=transparent" width="500" alt="Denariadna's GitHub stats" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Denariadna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&theme=transparent" width="500" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Denariadna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=facc15&text_color=76cb1a&icon_color=3382ed&hide_border=true&theme=transparent" width="500" alt="Most Used Languages" />
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://wakatime.com/@Denariadna" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Denariadna&layout=compact&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&theme=transparent&range=all_time" width="500" alt="Denariadna's WakaTime stats" />
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Denariadna&layout=compact&title_color=facc15&text_color=76cb1a&icon_color=3382ed&hide_border=true&theme=transparent&range=all_time" width="500" alt="Denariadna's WakaTime stats" />
         </a>
       </td>
     </tr>
@@ -78,7 +78,7 @@
 
 
 <!-- TODO: это счетчик используемых языков програмирования только в вертикальном варианте
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danula-ded&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /> -->
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danula-ded&langs_count=10&title_color=facc15&text_color=76cb1a&icon_color=3382ed&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /> -->
 
 <!-- TODO: Это счетчик фолловеров, когда стану популярным надо будет активировать -->
 <!-- <a href="https://www.github.com/danula-ded" target="_blank" rel="noreferrer"><img
