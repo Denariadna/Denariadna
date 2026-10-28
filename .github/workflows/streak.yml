@@ -17,7 +17,7 @@ jobs:
             - name: Generate Streak Stats
               uses: DenverCoder1/github-readme-streak-stats@v1
               with:
-                  options: user=Denariadna&background=transparent&ring=ff69b4&fire=ff69b4&currStreakNum=00bfff&currStreakLabel=00bfff&sideNums=ff69b4&sideLabels=ff69b4&dates=ff69b4&stroke=ff69b4&hide_border=true&locale=ru
+                  options: user=Denariadna&background=151515&ring=ff69b4&fire=ff69b4&currStreakNum=00bfff&currStreakLabel=00bfff&sideNums=ff69b4&sideLabels=ff69b4&dates=8b949e&stroke=ff69b4&hide_border=true&locale=ru
                   path: profile/streak.svg
 
             - name: Commit and Push
