@@ -74,10 +74,12 @@
 <div align="center">
   <h2>Статистика Github</h2>
   
-  <a href="https://github.com/Denariadna" target="_blank">
-    <img src="./profile/streak.svg" width="500" alt="GitHub Streak" />
-  </a>
-
+  <div align="center">
+    <img
+      src="https://streak-stats.demolab.com?user=Denariadna&locale=ru&background=151515&ring=FF69B4&fire=FF69B4&currStreakNum=00BFFF&currStreakLabel=00BFFF&sideNums=FF69B4&sideLabels=FF69B4&dates=8B949E&stroke=FF69B4&hide_border=true&timezone=Europe%2FMoscow"
+      alt="GitHub Streak"
+    />
+  </div>
   <br><br>
 
   <img src="https://github-stats-extended.vercel.app/api?username=Denariadna&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=76cb1a&icon_color=3382ed&hide_border=true&theme=transparent" width="500" alt="Denariadna's GitHub stats" />
